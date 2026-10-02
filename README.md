@@ -1,5 +1,10 @@
 # 🌱 Irrigation Water Requirement Prediction Using Machine Learning
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://irrigation-water-requirement.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Lalith02-Kumar/Irrigation-requirement)
+
+🔗 **Live Demo:** [https://irrigation-water-requirement.streamlit.app/](https://irrigation-water-requirement.streamlit.app/)
+
 A machine learning-based application that predicts the **irrigation requirement of an agricultural field as Low, Medium, or High** using soil, weather, crop, and irrigation-related parameters.
 
 ## 📌 Project Overview
@@ -300,13 +305,13 @@ Irrigation-Water-Requirement-Prediction-ML/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Lalith02-Kumar/Irrigation-requirement.git
 ```
 
 ### 2. Enter the project
 
 ```bash
-cd Irrigation-Water-Requirement-Prediction-ML
+cd Irrigation-requirement
 ```
 
 ### 3. Create a virtual environment
